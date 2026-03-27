@@ -1,0 +1,64 @@
+product_name,category,use_case,short_description,combined_text
+Battery Charger,Electronics,Charging batteries,A device for charging batteries,Battery Charger Electronics Charging batteries A device for charging batteries
+CDI,Electronics,Ignition systems,A device for ignition systems,CDI Electronics Ignition systems A device for ignition systems
+DC-DC Converter,Electronics,Power conversion,A device for converting DC power,DC-DC Converter Electronics Power conversion A device for converting DC power
+ECU,Automotive,Engine control,A device for controlling engine functions,ECU Automotive Engine control A device for controlling engine functions
+Electric Hand Throttle,Automotive,Throttle control,A device for controlling throttle,Electric Hand Throttle Automotive Throttle control A device for controlling throttle
+EV Charging Gun,Electronics,Charging electric vehicles,A device for charging electric vehicles,EV Charging Gun Electronics Charging electric vehicles A device for charging electric vehicles
+FM Radio,Electronics,Entertainment,A device for playing FM radio,FM Radio Electronics Entertainment A device for playing FM radio
+Head Lamp Controller,Automotive,Lighting control,A device for controlling head lamps,Head Lamp Controller Automotive Lighting control A device for controlling head lamps
+Instrument Cluster,Automotive,Displaying vehicle information,A device for displaying vehicle information,Instrument Cluster Automotive Displaying vehicle information A device for displaying vehicle information
+LED Flasher,Electronics,Indication and warning,A device for flashing LEDs,LED Flasher Electronics Indication and warning A device for flashing LEDs
+License Plate Lamp,Automotive,Lighting,A device for illuminating license plates,License Plate Lamp Automotive Lighting A device for illuminating license plates
+Motor Control Unit,Electronics,Motor control,A device for controlling motors,Motor Control Unit Electronics Motor control A device for controlling motors
+Regulator and Rectifiers,Electronics,Power regulation,A device for regulating and rectifying power,Regulator and Rectifiers Electronics Power regulation A device for regulating and rectifying power
+Sensors,Electronics,Sensing and measurement,A device for sensing and measuring various parameters,Sensors Electronics Sensing and measurement A device for sensing and measuring various parameters
+Telematics Hardware and Software,Telecommunications,Vehicle tracking and monitoring,A system for tracking and monitoring vehicles,Telematics Hardware and Software Telecommunications Vehicle tracking and monitoring A system for tracking and monitoring vehicles
+Temperature Sensor,Electronics,Temperature measurement,A device for measuring temperature,Temperature Sensor Electronics Temperature measurement A device for measuring temperature
+USB Charger,Electronics,Charging USB devices,A device for charging USB devices,USB Charger Electronics Charging USB devices A device for charging USB devices
+Winker LED Lamp,Automotive,Indication and warning,A device for flashing LEDs as turn indicators,Winker LED Lamp Automotive Indication and warning A device for flashing LEDs as turn indicators
+Battery Charger,Electronics,Charging batteries,A device for charging batteries,Battery Charger Electronics Charging batteries A device for charging batteries
+CDI,Electronics,Ignition systems,A device for controlling ignition systems,CDI Electronics Ignition systems A device for controlling ignition systems
+DC-DC Converter,Electronics,Power conversion,A device for converting DC power,DC-DC Converter Electronics Power conversion A device for converting DC power
+ECU,Automotive,Engine control,A computer for controlling engine functions,ECU Automotive Engine control A computer for controlling engine functions
+Electric Hand Throttle,Automotive,Throttle control,A device for controlling throttle,Electric Hand Throttle Automotive Throttle control A device for controlling throttle
+EV Charging Gun,Electronics,Charging electric vehicles,A device for charging electric vehicles,EV Charging Gun Electronics Charging electric vehicles A device for charging electric vehicles
+FM Radio,Electronics,Entertainment,A device for playing FM radio,FM Radio Electronics Entertainment A device for playing FM radio
+Head Lamp Controller,Automotive,Lighting control,A device for controlling head lamps,Head Lamp Controller Automotive Lighting control A device for controlling head lamps
+Instrument Cluster,Automotive,Displaying vehicle information,A device for displaying vehicle information,Instrument Cluster Automotive Displaying vehicle information A device for displaying vehicle information
+LED Flasher,Electronics,Signaling,A device for flashing LEDs,LED Flasher Electronics Signaling A device for flashing LEDs
+License Plate Lamp,Automotive,Lighting,A device for illuminating license plates,License Plate Lamp Automotive Lighting A device for illuminating license plates
+Motor Control Unit,Electronics,Motor control,A device for controlling motors,Motor Control Unit Electronics Motor control A device for controlling motors
+Regulator and Rectifiers,Electronics,Power regulation,A device for regulating and rectifying power,Regulator and Rectifiers Electronics Power regulation A device for regulating and rectifying power
+Sensors,Electronics,Sensing,A device for sensing various parameters,Sensors Electronics Sensing A device for sensing various parameters
+Telematics Hardware and Software,Electronics,Vehicle tracking,A system for tracking and monitoring vehicles,Telematics Hardware and Software Electronics Vehicle tracking A system for tracking and monitoring vehicles
+Temperature Sensor,Electronics,Temperature measurement,A device for measuring temperature,Temperature Sensor Electronics Temperature measurement A device for measuring temperature
+USB Charger,Electronics,Charging devices,A device for charging USB devices,USB Charger Electronics Charging devices A device for charging USB devices
+Winker LED Lamp,Automotive,Signaling,A device for signaling with LEDs,Winker LED Lamp Automotive Signaling A device for signaling with LEDs
+Battery Charger,Electronics,Charging batteries,A device for charging batteries,Battery Charger Electronics Charging batteries A device for charging batteries
+CDI,Electronics,Ignition systems,A capacitor discharge ignition system,CDI Electronics Ignition systems A capacitor discharge ignition system
+DC-DC Converter,Electronics,Power conversion,A device for converting DC power,DC-DC Converter Electronics Power conversion A device for converting DC power
+ECU,Automotive,Engine control,An engine control unit,ECU Automotive Engine control An engine control unit
+Electric Hand Throttle,Automotive,Throttle control,A device for controlling throttle,Electric Hand Throttle Automotive Throttle control A device for controlling throttle
+EV Charging Gun,Electronics,Charging electric vehicles,A device for charging electric vehicles,EV Charging Gun Electronics Charging electric vehicles A device for charging electric vehicles
+FM Radio,Electronics,Entertainment,A device for listening to FM radio,FM Radio Electronics Entertainment A device for listening to FM radio
+Head Lamp Controller,Automotive,Lighting control,A device for controlling head lamps,Head Lamp Controller Automotive Lighting control A device for controlling head lamps
+Instrument Cluster,Automotive,Displaying vehicle information,A device for displaying vehicle information,Instrument Cluster Automotive Displaying vehicle information A device for displaying vehicle information
+LED Flasher,Electronics,Signaling,A device for flashing LEDs,LED Flasher Electronics Signaling A device for flashing LEDs
+License Plate Lamp,Automotive,Lighting,A device for illuminating license plates,License Plate Lamp Automotive Lighting A device for illuminating license plates
+Motor Control Unit,Electronics,Motor control,A device for controlling motors,Motor Control Unit Electronics Motor control A device for controlling motors
+Regulator and Rectifiers,Electronics,Power regulation,A device for regulating and rectifying power,Regulator and Rectifiers Electronics Power regulation A device for regulating and rectifying power
+Sensors,Electronics,Sensing,Devices for sensing various parameters,Sensors Electronics Sensing Devices for sensing various parameters
+Telematics Hardware and Software,Electronics,Vehicle tracking,A system for tracking and monitoring vehicles,Telematics Hardware and Software Electronics Vehicle tracking A system for tracking and monitoring vehicles
+Temperature Sensor,Electronics,Temperature measurement,A device for measuring temperature,Temperature Sensor Electronics Temperature measurement A device for measuring temperature
+USB Charger,Electronics,Charging devices,A device for charging USB devices,USB Charger Electronics Charging devices A device for charging USB devices
+Winker LED Lamp,Automotive,Signaling,A device for signaling with LEDs,Winker LED Lamp Automotive Signaling A device for signaling with LEDs
+Battery Charger,Electronics,Charging batteries,A device for charging batteries,Battery Charger Electronics Charging batteries A device for charging batteries
+CDI,Electronics,Ignition systems,A device for ignition systems,CDI Electronics Ignition systems A device for ignition systems
+DC-DC Converter,Electronics,Power conversion,A device for converting DC power,DC-DC Converter Electronics Power conversion A device for converting DC power
+ECU,Automotive,Engine control,A computer for controlling engine functions,ECU Automotive Engine control A computer for controlling engine functions
+Electric Hand Throttle,Automotive,Throttle control,A device for controlling throttle,Electric Hand Throttle Automotive Throttle control A device for controlling throttle
+EV Charging Gun,Electronics,Charging electric vehicles,A device for charging electric vehicles,EV Charging Gun Electronics Charging electric vehicles A device for charging electric vehicles
+FM Radio,Electronics,Entertainment,A device for listening to FM radio,FM Radio Electronics Entertainment A device for listening to FM radio
+Head Lamp Controller,Automotive,Lighting control,A device for controlling head lamps,Head Lamp Controller Automotive Lighting control A device for controlling head lamps
+Instrument Cluster,Automotive,Displaying vehicle information,A device for displaying vehicle information,Instrument Cluster Automotive Displaying vehicle information A device for displaying vehicle information
